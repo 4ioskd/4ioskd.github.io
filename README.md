@@ -11,3 +11,6 @@ This is DignifiedSilence's official site<br>
   
 ・Blog<br>
 <a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>
+
+・Git account<br>
+<a rel="me" href="https://github.com/4isokd">Github</a>
