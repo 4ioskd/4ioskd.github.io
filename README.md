@@ -15,4 +15,4 @@ This is DignifiedSilence official site<br>
 ・Git account<br>
 <a rel="me" href="https://github.com/4ioskd">Github</a>
 
-※私が保有してるアカウントは上記以外にはありません。
+※私が保有してるアカウントやその他サイト・ブログ等は上記以外にはありません。
