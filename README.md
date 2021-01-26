@@ -10,4 +10,4 @@ This is DignifiedSilence's official site<br>
 <a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a><br><br><br>
   
 ・Blog<br>
-
+<a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>
