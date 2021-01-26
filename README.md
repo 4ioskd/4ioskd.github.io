@@ -1,6 +1,6 @@
 Hello World!<br>
 This is DignifiedSilence's official site<br>
-<br><br>
+<br>
 ・distributedSNS's accounts<br>
 <a rel="me" href="https://ukadon.shillest.net/@4ioskd">Mastodon</a><br>
 <a rel="me" href="https://lufimianet.jp/users/4ioskd">Pleroma</a><br>
