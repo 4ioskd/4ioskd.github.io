@@ -13,6 +13,6 @@ This is DignifiedSilence official site<br>
 <a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>
 
 ・Git account<br>
-<a rel="me" href="https://github.com/4isokd">Github</a>
+<a rel="me" href="https://github.com/4ioskd">Github</a>
 
 ※私が保有してるアカウントは上記以外にはありません。
