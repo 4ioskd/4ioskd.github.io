@@ -30,4 +30,4 @@ Japanese(native),English(learner)
 <a rel="me" href="https://github.com/4ioskd">Github</a>
 
 ※私が保有してるアカウントやその他サイト・ブログ等は上記以外にはありません。<br>
-※There are no web service's accounts,website and blog without mentioned above.
+※There aren't my web service's account,website and blog etc... without mentioned above.
