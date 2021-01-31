@@ -27,4 +27,4 @@ Japanese(native),English(learner)
 <a rel="me" href="https://github.com/4ioskd">Github</a>
 
 ※私が保有してるアカウントやその他サイト・ブログ等は上記以外にはありません。<br>
-※There are no web service's accounts without mentioned above.
+※There are no web service's accounts,website and blog without mentioned above.
