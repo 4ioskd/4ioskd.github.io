@@ -21,6 +21,7 @@ Japanese(native),English(learner)
   
 ・Blog<br>
 <a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>
+<a rel="me" href="https://plume.xn--krsgw--n73t.com/@/4ioskd">Plume</a><br>
 
 ・Git account<br>
 <a rel="me" href="https://github.com/4ioskd">Github</a>
