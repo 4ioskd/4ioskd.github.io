@@ -1,11 +1,13 @@
 Hello World!<br>
-This is DignifiedSilence official site.<br>
+This is DignifiedSilence Official site.<br><br>
 
-A head of the Fediverse Social Labo(in the future).
-In addition to tooting fedi news and information,writing blog article about them from the perspective of social science and humanities.
-And my nickname is dignny:)
+A head of the Fediverse Social Labo.<br>
+Tooting and writing blog article about fedi news and information.<br>
+In the future,I want to write blog article about them from the perspective of social science and humanities.<br><br>
 
-・Language
+And my nickname is dignny:)<br><br>
+
+・Language<br>
 Japanese(native),English(learner)
 
 <br>
