@@ -13,6 +13,8 @@ Fediverse,Distributed Social Network(especially DistributedSNS),Linux,FOSS,Socia
 <b>・Language<br></b>
 Japanese(native),English(learner)
 
+<b>・Decentralized Online Identity<br></b>
+<a rel="me" href="https://keyoxide.org/56009512106009B8EFBD759599212BBD7D892057">Keyoxide</a>
 
 <b>・DistributedSNS accounts<br></b>
 <a rel="me" href="https://ukadon.shillest.net/@4ioskd">Mastodon</a><br>
