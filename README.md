@@ -1,6 +1,7 @@
 Hello World!<br><br>
 This is DignifiedSilence Official Site.<br><br>
 
+My bio:<br>
 A head of the Fediverse Social Labo.<br>
 Tooting and writing blog article about fedi news and information.<br>
 In the future,I want to write blog article about them from the perspective of social science and humanities.<br><br>
@@ -10,7 +11,7 @@ And my nickname is dignny:)<br><br>
 ・Language<br>
 Japanese(native),English(learner)
 
-<br>
+
 ・DistributedSNS accounts<br>
 <a rel="me" href="https://ukadon.shillest.net/@4ioskd">Mastodon</a><br>
 <a rel="me" href="https://lufimianet.jp/users/4ioskd">Pleroma</a><br>
@@ -26,3 +27,4 @@ Japanese(native),English(learner)
 <a rel="me" href="https://github.com/4ioskd">Github</a>
 
 ※私が保有してるアカウントやその他サイト・ブログ等は上記以外にはありません。
+※There are no web service's accounts without mentioned above.
