@@ -1,5 +1,13 @@
 Hello World!<br>
-This is DignifiedSilence official site<br>
+This is DignifiedSilence official site.<br>
+
+A head of the Fediverse Social Labo(in the future).
+In addition to tooting fedi news and information,writing blog article about them from the perspective of social science and humanities.
+And my nickname is dignny:)
+
+・Language
+Japanese(native),English(learner)
+
 <br>
 ・DistributedSNS accounts<br>
 <a rel="me" href="https://ukadon.shillest.net/@4ioskd">Mastodon</a><br>
