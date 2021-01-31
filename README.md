@@ -1,5 +1,5 @@
 Hello World!<br><br>
-This is DignifiedSilence Official site.<br><br>
+This is DignifiedSilence Official Site.<br><br>
 
 A head of the Fediverse Social Labo.<br>
 Tooting and writing blog article about fedi news and information.<br>
