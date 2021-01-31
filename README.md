@@ -23,7 +23,7 @@ Japanese(native),English(learner)
 <a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>
   
 <b>・Blog<br></b>
-<a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>
+<a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a><br>
 <a rel="me" href="https://plume.xn--krsgw--n73t.com/@/4ioskd">Plume</a><br>
 
 <b>・Git account<br></b>
