@@ -1,11 +1,10 @@
-Hello World!<br><br>
+Hello World!<br>
 This is DignifiedSilence Official Site.<br>
 
 Biography:<br>
 A head of the Fediverse Social Labo.<br>
 Tooting and writing blog article about fedi news and information.<br>
-In the future,I want to write blog article about them from the perspective of social science and humanities.<br>
-
+In the future,I want to write blog article about them from the perspective of social science and humanities.
 Please feel free to call me 'dignny'(my nickname).<br>
 
 ・Language<br>
