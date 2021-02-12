@@ -19,13 +19,13 @@ Japanese(native),English(learner)
 <a rel="me" href="https://ukadon.shillest.net/@4ioskd">Mastodon</a>(English,Japanese)<br>
 <a rel="me" href="https://lufimianet.jp/users/4ioskd">Pleroma</a>(Japanese)<br>
 <a rel="me" href="https://misskey.de/@4ioskd">Misskey</a><br>
-<a rel="me" href="https://plume.xn--krsgw--n73t.com/@/4ioskd">Plume</a>(English,Japanese)<br>
+<a rel="me" href="https://plume.korako.me/@/4ioskd">Plume</a>(English,Japanese)<br>
 <a rel="me" href="https://lemmy.cardina1.red/u/DignifiedSilence">Lemmy</a>(mainly Japanese)<br>
 <a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>(English,Japanese)
   
 <b>・Blog<br></b>
 <a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>(Japanese)<br>
-<a rel="me" href="https://plume.xn--krsgw--n73t.com/@/4ioskd">Plume</a>(English,Japanese)<br>
+<a rel="me" href="https://plume.korako.me/@/4ioskd">Plume</a>(English,Japanese)<br>
 
 <b>・Git account<br></b>
 <a rel="me" href="https://github.com/4ioskd">Github</a>
