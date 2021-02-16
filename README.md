@@ -22,13 +22,11 @@ Japanese(native),English(learner)
 <a rel="me" href="https://plume.korako.me/@/4ioskd">Plume</a>(English,Japanese)<br>
 <a rel="me" href="https://lemmy.cardina1.red/u/DignifiedSilence">Lemmy</a>(mainly Japanese)<br>
 <a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>(English,Japanese)
+<a rel="me" href="https://ep.korako.me/@4ioskd">Epicyon</a>(Just an experimental account,Japanese)
   
 <b>・Blog<br></b>
-<a rel="me" href="https://telescope.ac/feditointanetutonoarekore-y3y78Azj8">telescope</a>(Japanese)<br>
+<a rel="me" href="https://4ioskd.bearblog.dev/">Bear Blog</a>(MainBlog,Japanese)<br>
 <a rel="me" href="https://plume.korako.me/@/4ioskd">Plume</a>(English,Japanese)<br>
 
 <b>・Git account<br></b>
 <a rel="me" href="https://github.com/4ioskd">Github</a>
-
-※There aren't my web service's account,website and blog etc... without mentioned above.<br>
-※私が保有してるアカウントやその他サイト・ブログ等は上記以外にはありません。
