@@ -21,7 +21,7 @@ Japanese(native),English(learner)
 <a rel="me" href="https://misskey.de/@4ioskd">Misskey</a><br>
 <a rel="me" href="https://plume.korako.me/@/4ioskd">Plume</a>(English,Japanese)<br>
 <a rel="me" href="https://lemmy.cardina1.red/u/DignifiedSilence">Lemmy</a>(mainly Japanese)<br>
-<a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>(English,Japanese)
+<a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>(English,Japanese)<br>
 <a rel="me" href="https://ep.korako.me/@4ioskd">Epicyon</a>(Just an experimental account,Japanese)
   
 <b>・Blog<br></b>
