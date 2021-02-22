@@ -18,10 +18,10 @@ Japanese(native),English(learner)
 <b>・DistributedSNS accounts<br></b>
 <a rel="me" href="https://ukadon.shillest.net/@4ioskd">Mastodon</a>(English,Japanese)<br>
 <a rel="me" href="https://lufimianet.jp/users/4ioskd">Pleroma</a>(Japanese)<br>
-<a rel="me" href="https://misskey.de/@4ioskd">Misskey</a><br>
+<a rel="me" href="https://misskey.de/@4ioskd">Misskey</a>(English)<br>
 <a rel="me" href="https://plume.korako.me/@/4ioskd">Plume</a>(English,Japanese)<br>
-<a rel="me" href="https://lemmy.cardina1.red/u/DignifiedSilence">Lemmy</a>(mainly Japanese)<br>
-<a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>(English,Japanese)<br>
+<a rel="me" href="https://lemmy.cardina1.red/u/DignifiedSilence">Lemmy</a>(Japanese)<br>
+<a rel="me" href="https://prismo.fedibird.com/@4ioskd">Prismo</a>(Japanese)<br>
 <a rel="me" href="https://ep.korako.me/@4ioskd">Epicyon</a>(experimental account,Japanese)
   
 <b>・Blog<br></b>
