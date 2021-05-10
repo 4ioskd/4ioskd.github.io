@@ -3,11 +3,11 @@ This is DignifiedSilence Official Site.<br></b>
 
 <b>・Biography<br></b>
 A head of the Fediverse Social Labo.<br>
-Tooting and writing a blog article about Fediverse and Distributed Social Network(especially DistributedSNS) news and information.In the future,I want to write a blog article about them from the perspective of social science and humanities.<br>
+Tooting and writing a blog article about Fediverse and Distributed Social Network(especially DecentralisedSNS) news and information.In the future,I want to write a blog article about them from the perspective of social science and humanities.<br>
 Please feel free to call me 'dignny'(my nickname).<br>
 
 <b>・My interest<br></b>
-Fediverse,DistributedSNS,Distributed Social Network,Linux,FOSS,Social Science,Humanities
+Fediverse,DecentralisedSNS,Distributed Social Network,Linux,FOSS,Social Science,Humanities
 
 <b>・Language<br></b>
 Japanese(native),English(learner)
