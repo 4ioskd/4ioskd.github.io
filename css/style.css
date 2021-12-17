@@ -12,9 +12,6 @@ br {
     content: "";
     margin: 8px 0;
 }
-
-/* フレーム
--------------------------------*/
 #frame {
     width: 100%;
     height: 100%;
@@ -110,17 +107,11 @@ footer {
     right: 0;
     z-index: 12;
 }
-
-/* メイン
--------------------------------*/
 main {
     width: calc(100% - 62px);
     padding: 39px 18px 44px 18px;
     margin: 0 13px;
 }
-
-/* メインビジュアル
--------------------------------*/
 #mainvisual {
     width: 100%;
     height: 221px;
@@ -141,9 +132,6 @@ main {
     margin: 0 0 44px 0;
     text-shadow: 0px 0px 6px #00000020;
 }
-
-/* メニュー
--------------------------------*/
 #mainvisual nav {
     display: block;
     width: 270px;
@@ -179,9 +167,6 @@ main {
     color: #fff;
     text-align: center;
 }
-
-/* フォント基本設定
--------------------------------*/
 .text_area .text_area_a {
     color: #4A4A4A;
     font-weight: 800;
@@ -199,9 +184,6 @@ main {
     font-weight: 500;
     line-height: 20px;
 }
-
-/* 文章
--------------------------------*/
 .text_area {
     max-width: 480px;
     padding: 0 0 36px 0;
